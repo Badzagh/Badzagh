@@ -3,7 +3,7 @@
 🎯 Front-End Developer with 4+ years of experience building scalable web and mobile apps using **React.js**, **Next.js**, **TypeScript**, and **React Native**.  
 🌍 Based in Tbilisi, Georgia | Open to remote opportunities
 
-[📫 Email](mailto:saba.badzaghua@outlook.com) • [🌐 LinkedIn](https://www.linkedin.com/in/saba-badzaghua) • [💻 Portfolio](https://github.com/Badzagh)
+[📫 Email](mailto:saba.badzaghua@outlook.com) • [🌐 LinkedIn](https://www.linkedin.com/in/saba-badzaghua) • [💻 GitHub](https://github.com/Badzagh)
 
 ---
 
@@ -13,19 +13,30 @@
 |------------------|-------------------|---------------------|----------------------------|
 | React.js          | React Native      | Tailwind CSS         | Git, GitHub, Figma         |
 | Next.js           | Expo Go           | Material UI          | REST APIs, React Hook Form |
-| TypeScript        |                   | HTML / CSS           | Yup, Chart.js              |
+| TypeScript        |                   | HTML / CSS           | Yup, Chart.js, Redux              |
 | JavaScript (ES6+) |                   | Responsive Design    | SSR, Component Architecture|
 
 ---
 
-## 🚀 Selected Work
+## 🚀 Selected Commercial Projects (Work Experience)
 
-| Project               | Tech Stack                | Summary                                           |
-|-----------------------|---------------------------|---------------------------------------------------|
-| **EduPlatform**       | Next.js, Tailwind         | Learning platform with 11k+ users                 |
-| **Car Rental Website**| React, Multilang, REST API| 4-language platform with custom booking logic     |
-| **Internal App**      | React Native, Expo        | Logistics tool scaled for external teams          |
-| **3D Web Experiences**| Three.js, R3F             | Interactive kiosks & AR-enhanced websites         |
+| Project               | Tech Stack               | Summary                                                   |
+|-----------------------|--------------------------|-----------------------------------------------------------|
+| **EduPlatform**       | React js, Next.js, Tailwind, REST API, React Hook Form, Redux   | Online learning platform with 11k+ users & 26k+ selections|
+| **Car Rental Website**| React js, Next.js, Tailwind, REST API, React Hook Form   | Multilingual car rental platform in 4 languages           |
+| **Internal App**      | React Native, Expo Go    | Logistics/resource tool for internal and external use     |
+| **3D Web Experiences**| Three.js, React Three Fiber | Interactive kiosk-based AR/3D websites                   |
+
+> ⚠️ Code for these projects is private, but I'm happy to discuss architecture or solutions during interviews.
+
+---
+
+## 🌟 Public / Open Source Projects
+
+| Project                                     | Tech Stack       | Description                                                  |
+|---------------------------------------------|------------------|--------------------------------------------------------------|
+| [**wc-tool**](https://github.com/Badzagh/wc-tool) | Python (CLI)      | Simple `wc`-like tool that counts words, lines, and characters |
+| _More CLI/dev tools coming soon..._         | —                | Building small open-source tools to share with the dev world |
 
 ---
 
@@ -40,6 +51,8 @@
 ---
 
 > “I build performant, responsive, and clean front-end solutions with a focus on real-world impact.”
+
+
 
 
 <!--

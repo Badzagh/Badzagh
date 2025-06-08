@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Saba Badzagua
+# 👋 Hi, I’m Saba Badzaghua
 
 🎯 Front-End Developer with 4+ years of experience building scalable web and mobile apps using **React.js**, **Next.js**, **TypeScript**, and **React Native**.  
 🌍 Based in Tbilisi, Georgia | Open to remote opportunities

@@ -36,6 +36,8 @@
 | Project                                     | Tech Stack       | Description                                                  |
 |---------------------------------------------|------------------|--------------------------------------------------------------|
 | [**wc-tool**](https://github.com/Badzagh/wc-tool) | Python (CLI)      | Simple `wc`-like tool that counts words, lines, and characters |
+| [**space-adventure**](https://github.com/Badzagh/space-adventure) | HTML/CSS/JS         | Simple browser-based space game showing creativity & JS logic|
+| [**Ecwid-vue-project**](https://github.com/Badzagh/Ecwid-vue-project) | Vue.js, eCommerce   | Storefront integration with Ecwid's API using Vue.js         |
 | _More CLI/dev tools coming soon..._         | —                | Building small open-source tools to share with the dev world |
 
 ---
